@@ -18,7 +18,12 @@ const Index = () => {
           <h2 className="text-3xl font-bold text-center mb-2 text-gray-800">PDF Document Tools</h2>
           <p className="text-gray-600 text-center mb-8">
             Transform, merge, and extract text from your documents with ease
+            <br />
+            <span className="text-sm text-red-500 font-medium">
+              Notice: If the files are not showing after clicking the "Add File" button, please try dragging and dropping the files instead — it will still work as expected.
+            </span>
           </p>
+
           
           <Tabs defaultValue="image-to-pdf" value={activeTab} onValueChange={setActiveTab} className="w-full">
             <TabsList className="grid grid-cols-3 mb-8">
