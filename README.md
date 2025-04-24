@@ -1,7 +1,5 @@
 # 🔮 Pixify PDF Alchemy
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR_BADGE_ID/deploy-status)](https://pixifypdf.netlify.app)
-
 **Pixify PDF Alchemy** is a modern and intuitive web application that transforms your PDF workflow. Whether you need to convert images into PDFs, merge multiple documents, or extract text from files — Pixify makes it effortless.
 
 🌐 **Live Demo**: [pixifypdf.netlify.app](https://pixifypdf.netlify.app/)
